@@ -1,5 +1,33 @@
-# 💫 About Me:
-currently working at Merkle Indonesia<br>working as Sr. Data Engineer<br>has 7 years of experience
+### 👋 Hey there!
+
+I’m **Fazlur R. Amin**, a **Senior Data Engineer** at **Merkle Indonesia** with **7+ years of experience** building reliable, scalable, and insight-driven data platforms.
+
+---
+
+### 🔧 What I Do  
+🚀 **Data Engineering** | 🛠️ **ETL Pipelines** | ☁️ **Cloud Data Platform**  
+🧱 **Data Modeling** | 📊 **Analytics Engineering** | 🧩 **System Integration**
+
+---
+
+### ⚡ Tech Stack  
+| ☁️ Cloud | 🗄️ Data & Storage | ⚙️ Tools & Ops |
+|--------|------------------|---------------|
+| **GCP (BigQuery, GCS, Cloud Run, Functions)** | **SQL, Python, Airbyte, dbt** | **Airflow, Workflows, GitLab CI/CD** |
+
+---
+
+### 💡 What I Love  
+✨ Transforming messy data into meaningful insights  
+📌 Optimizing pipelines for speed & reliability  
+🔍 Solving complex data challenges at scale  
+📚 Always learning new tech & best practices
+
+---
+
+### 🔗 Let’s Connect  
+💼 Open to collaboration & data-driven discussions  
+🌱 Exploring advanced data architecture & automation
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fazluramin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazluramin) 
